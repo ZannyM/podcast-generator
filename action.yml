@@ -1,4 +1,4 @@
-name: "Podcast Generator"
+name: "Zanny Podcast Generator"
 author: "Zanny Maholobela"
 description: "Generates a feed for a podcast from a YAML file"
 runs:
